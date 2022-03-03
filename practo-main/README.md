@@ -18,7 +18,7 @@ This is a clone of the Practo India App, built with ReactJS, styled-components, 
 Clone the project
 
 ```bash
-  git clone https://github.com/chiranjeev-thapliyal/practo.git
+  git clone  https://github.com/Aditi369/HealthCare.git
 ```
 
 Go to the project directory
